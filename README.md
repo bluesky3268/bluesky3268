@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+TIL : https://www.notion.so/TIL-6f6703993a6a477b87a4bda68807fa54
+
 <!--
 **bluesky3268/bluesky3268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
