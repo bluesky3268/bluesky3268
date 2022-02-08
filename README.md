@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[TIL - NOTION](https://familiar-wool-d27.notion.site/TIL-6f6703993a6a477b87a4bda68807fa54)
+<!--[TIL - NOTION](https://familiar-wool-d27.notion.site/TIL-6f6703993a6a477b87a4bda68807fa54)-->
 
 <!--
 **bluesky3268/bluesky3268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
